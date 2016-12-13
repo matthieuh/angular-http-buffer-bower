@@ -1,0 +1,21 @@
+{
+  "name": "meanie-angular-http-buffer",
+  "description": "An Angular service for buffering HTTP requests",
+  "main": "release/meanie-angular-http-buffer.js",
+  "license": "MIT",
+  "keywords": [
+    "meanie",
+    "angular",
+    "angularjs",
+    "http",
+    "buffer"
+  ],
+  "homepage": "https://github.com/meanie/angular-http-buffer",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
